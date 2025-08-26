@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="Intel_Hunter.png" alt="Intel Hunter logo" width="300"/>
+  <img src="Intel_Hunter.png" alt="Intel Hunter logo" width="500"/>
 </p>
-
-# Intel Hunter (Threat-Hunting-MVP)
 
 
 # Intel Hunter (Threat-Hunting-MVP)
