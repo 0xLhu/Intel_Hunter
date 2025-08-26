@@ -12,11 +12,11 @@ FRESH_HOURS_DEFAULT = 48
 
 # --- API keys ---
 SHODAN_API_KEY = (
-    os.getenv("SHODAN_API_KEY", "").strip() or "ELtDOpRpOuGV8eUpyalJ5xqtxgex0x1n"
+    os.getenv("SHODAN_API_KEY", "").strip() or "API_KEY_HERE"
 )
 VT_API_KEY = (
     os.getenv("VT_API_KEY", "").strip()
-    or "fc39349d4db0cf6ef193dea20e95a61d2644ab3223eb0962d0306d7e287d2d43"
+    or "API_KEY_HERE"
 )
 
 # --- Endpoints ---
@@ -480,3 +480,4 @@ async def pivot_from_jsonl(
             )
 
     return out_path
+
