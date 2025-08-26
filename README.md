@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="Intel_Hunter.png" alt="Intel Hunter logo" width="300"/>
+</p>
+
+# Intel Hunter (Threat-Hunting-MVP)
+
+
 # Intel Hunter (Threat-Hunting-MVP)
 
 Collecte, enrichit, score et **pivote** automatiquement des IOC récents depuis **Urlscan**, **URLhaus**, **ThreatFox** ; pivots via **Shodan**, **crt.sh** et **VirusTotal** ; export **STIX** et **Elastic ECS**.
